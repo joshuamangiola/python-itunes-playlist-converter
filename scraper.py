@@ -34,7 +34,3 @@ print(playlist_title)
 
 for pi in playlist:
     print('\nTitle: ' + pi.title + '\nArtist: ' + pi.artist)
-
-
-
-
